@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css2?family=Signika:wght@300&display=swap');
+
+*{
+	margin:0;
+	padding: 0;	
+	box-sizing: border-box;	
+
+}
+
+body{
+	background-image: url(fondoestrellas.jpg);
+	font-family: Signika;
+
+}
+
+main{
+	width: 85%;
+	height: 748px;
+	max-width: 1280px;
+	background-color: black;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+header{
+	width: 100%;
+	height: 110px;
+	max-width: 1280px;
+	background-color: #be73a9;
+}
+
+nav li {
+	display: inline;
+	background-color:  #C6C5C3;
+}
+
+nav li a {
+	font-family: 'Signika';
+	font-size: 16px;
+	text-decoration: none;
+	color: #f1f2f6;
+	float: right;
+	padding: 1.5%;
+	margin-top: 3%;
+	margin-right: 5%;
+	text-align: center;
+}
+
+section{
+	width: 100%;
+	height: 540px;
+	background-color: #833471;
+}
+
+footer{
+	width: 100%;
+	height: 68px;
+	background-color: #be73a9;
+}
+
+#parte1{
+	width:50%;
+	height: 540px;
+	background-color: #833471;
+	float: right;
+
+}
+
+#parte2{
+	width:50%;
+	height: 540px;
+	background-color: #833471;
+	float: left;
+}
+
+.logo{
+	width:13%;
+	padding-top: 0.5%;
+	margin-left: 2%;
+	float: left;
+}
+
+.reggie{
+	width:79%;
+	float: left;
+	margin-right: 3%: 
+}
+
+.fuente{
+	font-family: 'Signika';
+	color: #f1f2f6;
+	font-size: 21px;
+	margin-top: 21%;
+	background-image: url(estrellas.jpg);
+	border-radius: 3%;
+	margin-left: 13%;
+	margin-right: 19%;
+	float: right;	
+	padding-left: 6%;
+	padding-right: 6%;
+	padding-top: 6%;
+	padding-bottom: 6%;
+	}
+
+.fuente2{
+	font-family: 'Signika';
+	color: #f1f2f6;
+	font-size: 13px;
+	float: left;
+	margin-top: 3%;
+	margin-right: 13%;
+	margin-left: 3%;
+}
+
+.reggies{
+	width:79%;
+	float: right;
+	margin-left: 3%: 
+	padding-top:1%;
+}
+
+
+
+.uces{
+	float: left;
+	clear: both;
+	margin-left: 2.5%;
+	margin-top: 1%;
+}
+
+.nombre{
+	width: 8%;
+	float: right;
+	margin-right: 3%;
+	clear: both;
+	font-family: 'Signika';
+	color: black;
+	font-size: 15px;
+}
